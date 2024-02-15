@@ -6,6 +6,7 @@ Developed an engaging online multiplayer game (via Telnet & Console),
 
 Available actions are by typing (case sensitive):
   left, walk, right, shout, help, direction, take, look, talk, attack, search, exit.
+
 In short:
  left, right - turn player inside room.
  walk - try to go forward and enter a room if available.
@@ -20,8 +21,8 @@ In short:
  exit - exit the game.
 
 Implemented object-oriented principles (OOP, OOD),
-Utilized design patterns (Factory for shapes, Observer for players),
-  applied functional programming techniques (passing functions as parameters),
-  and demonstrated advanced C++ usage,
-  including templates, smart pointers, move semantics, and concurrency.
+ utilized design patterns (Factory for shapes, Observer for players),
+ applied functional programming techniques (passing functions as parameters),
+ and demonstrated advanced C++ usage,
+ including templates, smart pointers, move semantics, and concurrency.
 </pre>
