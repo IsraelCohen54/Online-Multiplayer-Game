@@ -17,6 +17,8 @@ take - if you have found anything, take it!
 exit - exit the game..
 
 Implemented object-oriented principles (OOP, OOD),
-Utilized design patterns (Factory for shapes, Observer for players), applied functional programming techniques (passing functions as parameters), and demonstrated advanced C++ usage, including 
-templates, smart pointers, move semantics, and concurrency.
+Utilized design patterns (Factory for shapes, Observer for players),
+  applied functional programming techniques (passing functions as parameters),
+  and demonstrated advanced C++ usage,
+  including templates, smart pointers, move semantics, and concurrency.
 </pre>
