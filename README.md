@@ -1,5 +1,6 @@
 # Online Multiplayer Game
 Interactive Network Game Programming (C++):
+<pre>
 Developed an engaging online multiplayer game (via Telnet & Console), enabling players to navigate between rooms and interact in real-time.
 
 Available actions are by typing: left, walk, right, shout, help, direction, take, look, talk, attack, search, exit. (case sensitive)
@@ -18,3 +19,4 @@ exit - exit the game..
 Implemented object-oriented principles (OOP, OOD),
 Utilized design patterns (Factory for shapes, Observer for players), applied functional programming techniques (passing functions as parameters), and demonstrated advanced C++ usage, including 
 templates, smart pointers, move semantics, and concurrency.
+</pre>
