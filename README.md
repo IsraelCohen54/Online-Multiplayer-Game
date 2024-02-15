@@ -1,7 +1,8 @@
 # Online Multiplayer Game
 Interactive Network Game Programming (C++):
 <pre>
-Developed an engaging online multiplayer game (via Telnet & Console), enabling players to navigate between rooms and interact in real-time.
+Developed an engaging online multiplayer game (via Telnet & Console),
+  enabling players to navigate between rooms and interact in real-time.
 
 Available actions are by typing: left, walk, right, shout, help, direction, take, look, talk, attack, search, exit. (case sensitive)
 left, right - turn player inside room.
