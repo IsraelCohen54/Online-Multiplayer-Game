@@ -26,7 +26,8 @@ Implemented object-oriented principles (OOP, OOD),
   and demonstrated advanced C++ usage,
   including templates, smart pointers, move semantics, and concurrency.
 
-B.t.w, Clarification, Shapes/main.cpp has an animation showing usage of the canvas which is used inside this game, 
+B.t.w, Clarification, Shapes/main.cpp has an animation showing
+  usage of the canvas which is used inside this game, 
   the "main" there wouldn't be used for the multiplayer game.
 </pre>
 
